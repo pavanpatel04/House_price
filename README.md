@@ -1,7 +1,3 @@
-Here's a well-structured version for the "House Price Prediction in USA" project to upload in a GitHub README file:
-
----
-
 # House Price Prediction in the USA
 
 This project aims to predict the price of a house based on various features such as the number of bedrooms, bathrooms, living area size, and more. The prediction model is built using the `LinearRegression` model from the `scikit-learn` library.
